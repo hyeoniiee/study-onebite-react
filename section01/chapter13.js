@@ -12,7 +12,7 @@ function sub(value) {
 // main(sub); 또는
 
 main(() => {
-  // 이렇게도 작성이 가능
+  // 이렇게도 작성이 가능 함.
   console.log("i am sub");
 });
 
