@@ -11,7 +11,7 @@ for (초기식 ; 조건식 ; 증감식) {
 for (let idx = 0; idx < 10; idx++) {
   if (idx % 2 === 0) {
     continue;
-  } // if조건문이 참일때 continue을 만나면 반복문 내의 다른 코드들은 수행하지 않고 바로 다음 반복회차로 이동한다.
+  } // if 조건문이 참일때 continue을 만나면 반복문 내의 다른 코드들은 수행하지 않고 바로 다음 반복회차로 이동한다.
 
   console.log(idx);
 
