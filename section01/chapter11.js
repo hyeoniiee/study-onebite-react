@@ -12,7 +12,7 @@ console.log("호출 후");
 function getArea(width, height) {
   // 매개변수
   let area = width * height;
-  //console.log(area);
+  // console.log(area);
   return area; // 반환값
   // 함수가 return 문을 만나면 값을 반환 후 함수를 종료시킨다.
   console.log("hello!"); // 그래서 return 문 밑에 콘솔을 작성해도 수행되지 않는다.
